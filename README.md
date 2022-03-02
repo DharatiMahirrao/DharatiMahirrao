@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dharati Mahirrao</h1>
 <h3 align="center">A passionate frontend developer and UI designer from India</h3>
 
-- 🌱 I’m currently learning *JavaScript*
+- 🌱 I worked on *HTML%* *ReactJS* *JavaScript*
 
 - 👯 I’m looking to collaborate on *Open Source*
 
 - 💬 Ask me about *JavaScript*
 
-- 📫 How to reach me *dharatilondhe333@gmail.com*
+- 📫 How to reach me *dharatimahirrao@gmail.com*
 
 
 
